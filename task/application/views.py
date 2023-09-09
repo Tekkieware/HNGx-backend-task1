@@ -32,7 +32,8 @@ def get_intern_details(request):
         slack_name = request.GET.get('slack_name')
         track = request.GET.get('track')
         current_day = get_current_day()
-        utc_time = datetime.now(timezone.utc)
+        time = datetime.now(timezone.utc)
+        utc_time =  time.replace(microsecond=0)
     
         details = {
                     "slack_name": slack_name,
