@@ -23,5 +23,9 @@ Follow these steps to set up and run the User API on your local machine:
 4. Start the server: python manage.py runserver
 
 
+## Usage
+Check documentation at: https://github.com/Tekkieware/HNGx-backend-task1/blob/main/DOCUMENTATION.md
+
+
 
 
