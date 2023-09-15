@@ -6,7 +6,7 @@
     <h1>1. Create a New Person</h1>
     <ul>
       <li><h5>Endpoint: `/api`</h5></li>
-      <li><h5>HTTP Method: </h5>POST</li>
+      <li><h5>HTTP Method: POST</h5></li>
       <li><h5>Request Body:</h5></li>
       <code>{
   "name": "James Madison",
