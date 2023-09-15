@@ -54,6 +54,43 @@
     </ul>
   </li>
 
+
+   <li>
+    <h1>Read Person Details by user_id</h1>
+    <ul>
+      <li><h5>Endpoint: `/api/{user_id}` (Replace `{user_id}` with the actual user ID, e.g., `/api/4`)</h5></li>
+      <li><h5>HTTP Method: GET</h5></li>
+      <li><h5>Response</h5></li>
+      <ul>
+        <li><h5>HTTP Status Code: 200 OK</h5></li>
+        <li><h5>Response Body:</h5></li>
+      <code>{
+  "id": 4,
+  "name": "James Garner",
+  "email": "James@gmail.com",
+  "country": "Italy"
+}</code>
+      </ul>
+    </ul>
+  </li>
+
+
+   <li>
+    <h1>Delete Person Details by user_id</h1>
+    <ul>
+      <li><h5>Endpoint: `/api/{user_id}` (Replace `{user_id}` with the actual user ID, e.g., `/api/4`)</h5></li>
+      <li><h5>HTTP Method: DELETE/h5></li>
+      <li><h5>Response</h5></li>
+      <ul>
+        <li><h5>HTTP Status Code: 200 OK</h5></li>
+        <li><h5>Response Body:</h5></li>
+      <code>{
+  "detail": "user successfully deleted"
+}</code>
+      </ul>
+    </ul>
+  </li>
+
 </ol>
 
 
