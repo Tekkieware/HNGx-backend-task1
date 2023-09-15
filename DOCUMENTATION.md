@@ -15,6 +15,7 @@
 }</code>
       <li><h5>Response</h5></li>
       <ul>
+        <li><h5>HTTP Status Code: 201 Created</h5></li>
         <li><h5>Response Body:</h5></li>
       <code>{
         "id": 4,
