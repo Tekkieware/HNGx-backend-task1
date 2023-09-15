@@ -15,12 +15,12 @@ Before you begin, ensure you have the following prerequisite:
 Follow these steps to set up and run the User API on your local machine:
 
 1. Clone the project repository: git clone https://github.com/Tekkieware/HNGx-backend-task1
-2. 
-3. Navigate to the project directory: cd Task
+ 
+2. Navigate to the project directory: cd Task
 
-4. Install the required dependencies using `pip`: pip install -r requirements.txt
+3. Install the required dependencies using `pip`: pip install -r requirements.txt
    
-5. Start the server: python manage.py runserver
+4. Start the server: python manage.py runserver
 
 
 
