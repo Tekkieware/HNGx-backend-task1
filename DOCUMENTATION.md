@@ -15,8 +15,7 @@
 }</code>
       <li><h5>Response</h5></li>
       <ul>
-        <li><li><h5>Endpoint: `/api`</h5></li></li>
-        <li><h5>Request Body:</h5></li>
+        <li><h5>Response Body:</h5></li>
       <code>{
         "id": 4,
   "name": "James Madison",
